@@ -96,7 +96,7 @@ function Homepage(){
         <Carousel fade className="topDecor" variant="light" >
         <Carousel.Item interval={1500}>
           <img
-            className="d-block w-75 h-50 img-fluid "
+            className="d-block w-100 cr-img"
             src="./images/hyd.webp"
             alt="Hyderabad"
           />
@@ -107,7 +107,7 @@ function Homepage(){
         </Carousel.Item>
         <Carousel.Item interval={1500}>
           <img
-            className="d-block w-75 h-50 img-fluid "
+            className="d-block w-100 cr-img"
             src="./images/delhi.jpg"
             alt="Delhi"
           />
@@ -119,7 +119,7 @@ function Homepage(){
         </Carousel.Item>
         <Carousel.Item interval={1500}>
           <img
-            className="d-block w-75 h-50 img-fluid "
+            className="d-block w-100 cr-img"
             src="./images/rajasthan.jpg"
             alt="Rajasthan"
           />
